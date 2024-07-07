@@ -1,9 +1,17 @@
 package com.aamir;
 
-public class Test {
-	
-	public static void main(String[] args) {
-		System.out.println("Bismillah");
+interface Mobile{
+	void ram();
+}
+public class Test implements Mobile {
+
+	@Override
+	public void ram() {
+		System.out.println("32 GB");
 	}
 
+	public static void main(String[] args) {
+		Mobile m = new Test();
+		m.ram();
+	}
 }
