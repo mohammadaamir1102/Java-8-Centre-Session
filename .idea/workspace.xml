@@ -5,47 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d029e055-d0ac-46cc-ab1c-5ca684d886e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/Huzaifa/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/Huzaifa/package-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/Tufail/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/aadilnoor/ReTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/aadilnoor/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/abrar/ReTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/abrar/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/abubakar/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/ReTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/mushahid/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/mushahid/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/mushahid/package-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/sameer/ReTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/sameer/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/sufiyan/Re_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/aamir/sufiyan/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Huzaifa/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Huzaifa/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/Tufail/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/aadilnoor/ReTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/aadilnoor/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/abrar/ReTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/abrar/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/abubakar/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/ReTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/mushahid/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/mushahid/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/mushahid/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/sameer/ReTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/sameer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/sufiyan/Re_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/sufiyan/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/LambdaSingleParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/LambdaSingleParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/LambdaApproach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/MultiParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/MultiParamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/SingleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/SingleParamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/TestLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/TradiAppro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/LambdaDoubleParamWithReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/LambdaApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/MultiParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/SingleParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/aamir/faiz/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/aamir/sameer/ReTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/aamir/sameer/ReTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aamir/faiz/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/faiz/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +47,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LambdaDoubleParamWithReturnType.executor": "Run",
+    "Application.LambdaSingleParam.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Merging master",
@@ -83,7 +60,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LambdaSingleParam">
+  <component name="RunManager" selected="Application.LambdaDoubleParamWithReturnType">
+    <configuration name="LambdaDoubleParamWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.LambdaDoubleParamWithReturnType" />
+      <module name="Java8CenterSession" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aamir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaSingleParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aamir.LambdaSingleParam" />
       <module name="Java8CenterSession" />
@@ -112,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaDoubleParamWithReturnType" />
         <item itemvalue="Application.LambdaSingleParam" />
       </list>
     </recent_temporary>
