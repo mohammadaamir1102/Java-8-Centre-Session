@@ -4,18 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d029e055-d0ac-46cc-ab1c-5ca684d886e1" name="Changes" comment="" />
+    <list default="true" id="d029e055-d0ac-46cc-ab1c-5ca684d886e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/LambdaApproach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/MultiParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/MultiParamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/SingleParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/SingleParamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/TestLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/TradiAppro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/LambdaDoubleParamWithReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/LambdaApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/MultiParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/SingleParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/faiz/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/aamir/faiz/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/aamir/faiz/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/aamir/sameer/ReTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/aamir/sameer/ReTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aamir/faiz/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/faiz/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2iuCSRqUEYOzTbmSdsMIaqC2OKe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LambdaDoubleParamWithReturnType.executor": "Run",
+    "Application.LambdaSingleParam.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java-8-Centre-Session",
@@ -34,9 +60,10 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.Test" />
+  <component name="RunManager" selected="Application.LambdaDoubleParamWithReturnType">
+    <configuration name="LambdaDoubleParamWithReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.LambdaDoubleParamWithReturnType" />
+      <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aamir.*" />
@@ -47,6 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaSingleParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.LambdaSingleParam" />
+      <module name="Java8CenterSession" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aamir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.Test" />
+      <module name="Java8CenterSession" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aamir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LambdaDoubleParamWithReturnType" />
+        <item itemvalue="Application.LambdaSingleParam" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
