@@ -1,9 +1,10 @@
-package faiz;
+package com.aamir.faiz;
 
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.print("faiz");
+		System.out.println("faiz");
+
 	}
 
 }
