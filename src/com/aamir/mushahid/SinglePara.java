@@ -8,3 +8,11 @@ public class SinglePara {
 		tSingle.mobileno(134);
 	}
 }
+
+	/*
+	 * interface TestSingle{ void Test(int marks); }
+	 * 
+	 * public class SinglePara { public static void main(String[] args) { TestSingle
+	 * ts = (marks)-> System.out.println(marks);
+	 * System.out.print("Highest Marks in the world"+"->"); ts.Test(700); } }
+	 */
