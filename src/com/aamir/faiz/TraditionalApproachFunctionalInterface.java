@@ -13,5 +13,4 @@ public class TraditionalApproachFunctionalInterface implements TradiAppro{
 		TraditionalApproachFunctionalInterface test = new TraditionalApproachFunctionalInterface();
 		test.test();
 	}
-
 }
