@@ -17,6 +17,6 @@ public class CheckGreaterValue {
 			}
 			
 	};
-	gv.greater(10, 20);
+System.out.println(gv.greater(10, 20));	
 
 }}
