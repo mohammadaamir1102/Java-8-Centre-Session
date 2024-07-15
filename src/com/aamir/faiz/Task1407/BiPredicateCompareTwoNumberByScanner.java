@@ -1,9 +1,9 @@
-package com.aamir.faiz;
+package com.aamir.faiz.Task1407;
 
 import java.util.Scanner;
 import java.util.function.BiPredicate;
 
-public class Practice {
+public class BiPredicateCompareTwoNumberByScanner {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
