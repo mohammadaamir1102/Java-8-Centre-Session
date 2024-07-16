@@ -5,7 +5,7 @@ interface TestSingleclass{
 public class Number {
 	public static void main(String[] args) {
 		
-		TestSingleclass st=(numderone ,numberjnhaerv)-> numderone+numberjnhaerv;
+		TestSingleclass st=(t ,n)-> t+n;
 			
 			System.out.println(st.sum(10, 20));
 		}
