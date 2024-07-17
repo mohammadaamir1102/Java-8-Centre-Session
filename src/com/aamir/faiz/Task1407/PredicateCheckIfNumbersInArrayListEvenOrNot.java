@@ -14,7 +14,7 @@ public class PredicateCheckIfNumbersInArrayListEvenOrNot {
 	}
 
 	public static List<Integer> evenList() {
-		return List.of(2, 4, 6, 8);
+		return List.of(2, 4, 6,7, 8);
 	}
 
 }
