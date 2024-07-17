@@ -1,7 +1,6 @@
 package com.aamir.Tufail;
 
 import java.util.function.Predicate;
-
 public class PredicateAndMethod {
 	public static void main(String[] args) {
 		Predicate<Integer>isEven=number->number%2==0;//true
