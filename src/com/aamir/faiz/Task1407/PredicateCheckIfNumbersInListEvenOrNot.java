@@ -3,7 +3,7 @@ package com.aamir.faiz.Task1407;
 import java.util.List;
 import java.util.function.Predicate;
 
-public class PredicateCheckIfNumbersInArrayListEvenOrNot {
+public class PredicateCheckIfNumbersInListEvenOrNot {
 
 	public static void main(String[] args) {
 		List<Integer> evenList = evenList();
