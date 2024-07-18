@@ -18,6 +18,6 @@ public class BiPredicateCheckIfAListIsPresentInAnother {
 	}
 	
 	public static List<Integer> secondList() {
-		return List.of(3,1,4,2,5);
+		return List.of(3,1,4,2);
 	}
 }
