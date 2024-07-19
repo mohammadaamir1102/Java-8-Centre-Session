@@ -1,18 +1,15 @@
 package com.aamir.abubakar;
-interface PrediInterface<T>{
-	
 
-	boolean test(Integer integer);
-}
-public class PrediClass implements PrediInterface<Integer> {
+import java.util.function.Predicate;
+
+public class PrediClass  {
 
 	public static void main(String[] args) {
-		PrediInterface<Integer> prediInterface=new PrediClass();
+		Predicate<Integer> prediInterface=(Predicate<Integer>) new PrediClass();
 		prediInterface.test(10);
 
 	}
 
-	@Override
 	public boolean test(Integer integer) {
 		if (integer %2==0) {
 		System.out.println(" is even");
