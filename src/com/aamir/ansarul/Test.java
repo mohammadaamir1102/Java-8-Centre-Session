@@ -1,9 +1,8 @@
-package com.aamir.Tufail;
+package com.aamir.ansarul;
 
 public class Test {
-	
 	public static void main(String[] args) {
-		System.out.println("Bismillahs");
+		System.out.println("running..");
 	}
 
 }
