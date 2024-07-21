@@ -12,8 +12,8 @@ public class PredicateCheckIfMapIsEmptyOrNot {
 	}
 
 	public static Map<Integer, String> firstMap() {
-//		return Map.of(1,"faiz",2,"suhail",3,"sahil");
-		return Map.of();
+		return Map.of(1,"faiz",2,"suhail",3,"sahil");
+//		return Map.of();
 	}
 
 }
