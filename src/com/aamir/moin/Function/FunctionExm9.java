@@ -1,10 +1,11 @@
 package com.aamir.moin.Function;
 
-import java.util.function.Function;
+import java.util.function.BiFunction;
+
 
 public class FunctionExm9 {
     public static void main(String[] args) {
-        Function<String,String> function=s-> s.toLowerCase();
-        System.out.println(function.apply("ABDUL"));
+       BiFunction<String,String,String> function= (s1,s2)-> s1.toLowerCase()+s2.toLowerCase();
+        System.out.println(function.apply("ABDUL "," MOIN"));
     }
 }

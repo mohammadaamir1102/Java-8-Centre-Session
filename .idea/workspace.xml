@@ -5,39 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d029e055-d0ac-46cc-ab1c-5ca684d886e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BiPredicateExm1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BiPredicateExm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BiPredicateNegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BiPredicateexm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BipredicateAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/BipredicateOr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/NumberAreEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/StringAreEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/StringLengthAreEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiPredicate/SumOfNumIsEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Smallestnumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiConsumer/BiConsumerExm9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Consumer/ConsumerExm9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aamir/moin/Supplier/SupplierExm9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/GreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/GreaterNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/LesserThan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/LesserThan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/OddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/OddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PasswordValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PredicateAndMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PredicateAndMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PredicateNegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/PredicateNegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/StringLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/predicateMethodOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Predicate/predicateMethodOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/aamir/moin/Function/FunctionExm9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/aamir/moin/Function/FunctionExm9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aamir/moin/Function/FunctionExm9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,13 +115,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FunctionExm10">
-    <configuration name="FunctionExm10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.Function.FunctionExm10" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aamir.moin.Supplier" />
+      <recent name="com.aamir.moin.BiConsumer" />
+      <recent name="com.aamir.moin.Consumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BiConsumerExm10">
+    <configuration name="BiConsumerExm10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.BiConsumer.BiConsumerExm10" />
       <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aamir.moin.Function.*" />
+          <option name="PATTERN" value="com.aamir.moin.BiConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExm6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.Function.FunctionExm6" />
+    <configuration name="BiConsumerExm4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.BiConsumer.BiConsumerExm4" />
       <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aamir.moin.Function.*" />
+          <option name="PATTERN" value="com.aamir.moin.BiConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExm7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.Function.FunctionExm7" />
+    <configuration name="BiConsumerExm7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.BiConsumer.BiConsumerExm7" />
       <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aamir.moin.Function.*" />
+          <option name="PATTERN" value="com.aamir.moin.BiConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExm8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.Function.FunctionExm8" />
+    <configuration name="BiConsumerExm8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.BiConsumer.BiConsumerExm8" />
       <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aamir.moin.Function.*" />
+          <option name="PATTERN" value="com.aamir.moin.BiConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExm9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.Function.FunctionExm9" />
+    <configuration name="BiConsumerExm9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aamir.moin.BiConsumer.BiConsumerExm9" />
       <module name="Java8CenterSession" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aamir.moin.Function.*" />
+          <option name="PATTERN" value="com.aamir.moin.BiConsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionExm10" />
-        <item itemvalue="Application.FunctionExm9" />
-        <item itemvalue="Application.FunctionExm8" />
-        <item itemvalue="Application.FunctionExm7" />
-        <item itemvalue="Application.FunctionExm6" />
+        <item itemvalue="Application.BiConsumerExm10" />
+        <item itemvalue="Application.BiConsumerExm9" />
+        <item itemvalue="Application.BiConsumerExm8" />
+        <item itemvalue="Application.BiConsumerExm7" />
+        <item itemvalue="Application.BiConsumerExm4" />
       </list>
     </recent_temporary>
   </component>
@@ -211,5 +228,20 @@
       <updated>1720331075162</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/aamir/moin/BiFunction/BiFunctionExm2.java</url>
+          <line>6</line>
+          <properties class="com.aamir.moin.BiFunction.BiFunctionExm2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
